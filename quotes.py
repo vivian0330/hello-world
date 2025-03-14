@@ -1,2 +1,3 @@
 print("helloworld")
-pritnt("helloworld2")
+print("helloworld2")
+print("helloworld3")
